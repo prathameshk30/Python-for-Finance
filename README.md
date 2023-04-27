@@ -1,1 +1,1 @@
-## This Git Repo is for basic Python Simulation in Finance Domain. 
+## This Repo contains Finance simulation using python
