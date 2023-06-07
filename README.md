@@ -6,11 +6,13 @@ This project was done as a part of my Graduate Research Assistant project. The p
 Methodology:- 
 Develope a VaR (Value at Risk) model using the Covariance matrix of the potfolio stock and run the Monte Carlo simuation for a definite window of period upto where we want o visualize the risk. Develope Regression model (OLS lib) in python to check the factors associated with risk. Download the Fama French data (3 Factors) for the dummy portfolios from Website. https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html. Finally use the scraped data from website such as Yahoo finance, Facebook, Twitter API to develope a sentiment analysis model and compare the stock price movement of some risk stocks with sentiment analysis score derived from text data. Use Granger causality test to check the interpretability of the sentiment score.
 
-Part 1:- Run VaR model Link:-  https://github.com/prathameshk30/Python-for-Finance/blob/main/Monte_Carlo_Simulation_Stock_Prediction.ipynb
+Part 1:- Run VaR model
+https://github.com/prathameshk30/Python-for-Finance/blob/main/Monte_Carlo_Simulation_Stock_Prediction.ipynb
 
 Part 2:- develope a  Fama French model
 
-Part 3:- Use sentiment analysis to check the causality. Link:- https://github.com/prathameshk30/Python-for-Finance/blob/main/FinBERT_%26_WandB.ipynb
+Part 3:- Use sentiment analysis to check the causality.
+https://github.com/prathameshk30/Python-for-Finance/blob/main/FinBERT_%26_WandB.ipynb
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
