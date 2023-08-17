@@ -45,6 +45,11 @@ In ML Algorithm part, I have used a Kmode clustering algorithm to check the simi
 Link:- https://github.com/prathameshk30/Python-for-Finance/blob/main/House%20Leasing%20Statistical%20Study%20(1).ipynb
 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Project 4:-
+#### implementing ICA for signal identification
+
 
 
 
